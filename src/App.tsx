@@ -5,9 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 function App() {
     return (
         <BrowserRouter>
-            <div className="bg-zinc-800">
-                <AppRoute />
-            </div>
+            <AppRoute />
         </BrowserRouter>
     );
 }
