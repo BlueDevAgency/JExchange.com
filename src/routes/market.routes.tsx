@@ -1,7 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import { Routes as RoutesPath } from "../config/routes";
 import MarketCoinsView from "../view/market/coins";
-// import AuthorizedRoute from "../components/AuthorizedRoute";
 
 const MarketRoutes = () => {
     return (
